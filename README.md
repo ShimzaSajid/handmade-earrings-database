@@ -1,6 +1,6 @@
-## 📦 Database Project: Handmade Clay Earrings Store
+## 📦 Database Project: Handmade Clay Jewelry Store
 
-> A relational database project built for managing a handmade clay earrings e-commerce system. Includes ERD (Entity-Relationship Diagram) and a collection of structured SQL queries showcasing various database concepts such as `DDL`, `DML`, `JOINS`, `AGGREGATION`, `NESTED QUERIES`, `VIEWS`, and `STORED PROCEDURES`.
+> A relational database project built for managing a handmade clay jewelry e-commerce system. Includes ERD (Entity-Relationship Diagram) and a collection of structured SQL queries showcasing various database concepts such as `DDL`, `DML`, `JOINS`, `AGGREGATION`, `NESTED QUERIES`, `VIEWS`, and `STORED PROCEDURES`.
 ---
 ### 📑 Features
 
